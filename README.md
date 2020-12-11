@@ -1,5 +1,4 @@
-# computerSci
-# WiKi
+# computerSci WiKi
 
 ### Problem: create react app
 you do not need to create a new filename before, react will create it for you.
@@ -33,19 +32,19 @@ And
 How to engage with user
 How to be elegance
 How to make great design great
-# What is great design
+### What is great design
 
 What makes great great? This is the question I asked myself. I have learned design for almost 10 years from industrial product to digital product, from 3D product to 2D interface, from  business application to consumer application.
 What is the standard of great design and how can we achieve this? 
 
-# 
+### 
 I felt lost in the design and technology
 I do not know where I should go
 If I have a choice now
 I think I would invest my time in Javascript
 to learn it deeply. 
 
-# Steven Jobs
+### Steven Jobs
 Musician: 
 
 Bob Dylan
@@ -74,7 +73,7 @@ Windham Hill
 9. Is environmentally friendly
 10. Involves as little design as possible
 
-# 产品记录
+### 产品记录
 满足用户 而不是教育用户
 我也不知道 这条路要走多远
 
