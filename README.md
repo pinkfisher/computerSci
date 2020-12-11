@@ -1,7 +1,33 @@
 # computerSci
+# WiKi
+
+### Problem: create react app
+you do not need to create a new filename before, react will create it for you.
+````
+npx create-react-app filename
+````
+### Problem: terminal usage to exit the current shell
+````
+control+D
+````
+
+### Problem: How to select many similar items?
+
+- In Google Colab and VS Code you can select the text (like feature1) and press Ctrl-D. This selects the next instance of the selection you have in addition to what you already selected. You can then type the new variable. This only works in one cell.
+- You can also press Ctrl-H (or Edit > Find and replace) and then search for the old text (feature1) and replace it with the new text.
+
+### Problem: What is shell knowledge?
+- This is the shell, yes. They are commonly referred to as terminal commends. MacOS is a UNIX system which is not Linux, but they have a lot in common (and most "Linux commands" will work on MacOS).
+- This tutorial looks decent: https://ubuntu.com/tutorials/command-line-for-beginners It is written for Ubuntu, which is a Linux OS, but the concepts should be the same except for the UI.
 
 
-# #设计
+### Problem:How to change csv file to json ?
+- I think you will need to use a tool online or write a short script. https://csvjson.com seems to do the job.
+
+
+
+
+# 设计
 how to communicate with user
 And 
 How to engage with user
